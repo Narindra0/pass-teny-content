@@ -1,0 +1,22 @@
+{
+  "id": "lesgo-interdule-feat-yuu",
+  "title": "LesGo Interdule (feat. Yuu)",
+  "artist": "Kresnik",
+  "artists": [
+    "Kresnik"
+  ],
+  "album": "FREEMAN",
+  "albumSlug": "freeman-1b73",
+  "releaseDate": null,
+  "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1779348612/Covers/artist-9bdab64e-99f5-44e0-bfd2-fc3a9a09dddd/cover-mpf67zp6.jpg",
+  "language": [],
+  "tags": [],
+  "source": {
+    "platform": "passio",
+    "albumId": "1b73d767-85ad-441c-a174-c271eb1e0b49",
+    "trackId": "6121417c-8bb5-4351-b2c3-cf3d991bc4df",
+    "albumTitle": "FREEMAN",
+    "note": "Source : catalogue Pass’io"
+  },
+  "addedAt": "2026-08-12"
+}

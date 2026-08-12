@@ -1,0 +1,262 @@
+{
+  "generatedAt": "2026-08-12T21:36:58.084Z",
+  "source": "catalogue Pass’io (seed initial)",
+  "artists": [
+    {
+      "slug": "kresnik",
+      "name": "Kresnik",
+      "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1779301511/ProfilePic/artist-9bdab64e-99f5-44e0-bfd2-fc3a9a09dddd/profile-picture.jpg?t=1779301510710"
+    },
+    {
+      "slug": "igvchy",
+      "name": "IGVCHY",
+      "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1780645332/ProfilePic/artist-fdf0a09d-4d11-4b85-a265-ebcbcd7ca928/profile-picture.jpg?t=1780645332555"
+    },
+    {
+      "slug": "9huit",
+      "name": "Nanté98",
+      "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1777879839/ProfilePic/artist-e2ad0b20-8dc6-4be0-a664-03037af4ac92/profile-picture.jpg?t=1777879813534"
+    },
+    {
+      "slug": "nxrxone",
+      "name": "Nxrxone",
+      "coverUrl": "https://res.cloudinary.com/drucu7fjh/image/upload/v1777299724/ProfilePic/artist-1ba259ed-ba11-4dd2-a59c-3baa1ed78d66/profile-picture.jpg?t=1777299724630"
+    },
+    {
+      "slug": "balz",
+      "name": "BALZ. ",
+      "coverUrl": null
+    },
+    {
+      "slug": "mc-hope",
+      "name": "Mc Hope",
+      "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1778324075/ProfilePic/artist-b2264acd-51d4-481b-8240-832a21b1a170/profile-picture.jpg?t=1778324075830"
+    }
+  ],
+  "songs": [
+    {
+      "slug": "ailleurs",
+      "artistSlug": "9huit",
+      "artist": "Nanté98",
+      "title": "Ailleurs",
+      "album": "Neuf Huit Part.2",
+      "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1778278594/Covers/artist-e2ad0b20-8dc6-4be0-a664-03037af4ac92/cover.png"
+    },
+    {
+      "slug": "lesgo-interdule-feat-yuu",
+      "artistSlug": "kresnik",
+      "artist": "Kresnik",
+      "title": "LesGo Interdule (feat. Yuu)",
+      "album": "FREEMAN",
+      "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1779348612/Covers/artist-9bdab64e-99f5-44e0-bfd2-fc3a9a09dddd/cover-mpf67zp6.jpg"
+    },
+    {
+      "slug": "metanoia",
+      "artistSlug": "mc-hope",
+      "artist": "Mc Hope",
+      "title": "Metanoïa",
+      "album": "METANOÏA",
+      "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1778487893/Covers/artist-b2264acd-51d4-481b-8240-832a21b1a170/cover-mp0xrsat.jpg"
+    },
+    {
+      "slug": "le-c-urs-en-off",
+      "artistSlug": "9huit",
+      "artist": "Nanté98",
+      "title": "Le cœurs en OFF",
+      "album": "Neuf Huit Part.2",
+      "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1778278594/Covers/artist-e2ad0b20-8dc6-4be0-a664-03037af4ac92/cover.png"
+    },
+    {
+      "slug": "okki",
+      "artistSlug": "kresnik",
+      "artist": "Kresnik",
+      "title": "Okki",
+      "album": "TRILL",
+      "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1779350679/Covers/artist-9bdab64e-99f5-44e0-bfd2-fc3a9a09dddd/trill-mpf7ga4x.png"
+    },
+    {
+      "slug": "sturdy",
+      "artistSlug": "kresnik",
+      "artist": "Kresnik",
+      "title": "Sturdy",
+      "album": "TRILL",
+      "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1779350679/Covers/artist-9bdab64e-99f5-44e0-bfd2-fc3a9a09dddd/trill-mpf7ga4x.png"
+    },
+    {
+      "slug": "breath-feat-jey-br-nante98-spvce-chen",
+      "artistSlug": "kresnik",
+      "artist": "Kresnik",
+      "title": "Breath (Feat. Jey BR, Nanté98 & Spvce Chen)",
+      "album": "TRILL",
+      "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1779350679/Covers/artist-9bdab64e-99f5-44e0-bfd2-fc3a9a09dddd/trill-mpf7ga4x.png"
+    },
+    {
+      "slug": "intro",
+      "artistSlug": "9huit",
+      "artist": "Nanté98",
+      "title": "Intro",
+      "album": "Neuf Huit Part.2",
+      "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1778278594/Covers/artist-e2ad0b20-8dc6-4be0-a664-03037af4ac92/cover.png"
+    },
+    {
+      "slug": "mitady-peace",
+      "artistSlug": "balz",
+      "artist": "BALZ. ",
+      "title": "Mitady peace",
+      "album": "CNTRBND : THE PREQUEL",
+      "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1780489624/Covers/artist-22a3c3e5-87e0-4156-bfc0-dd1616d95474/cover-mpy1jssi.jpg"
+    },
+    {
+      "slug": "trust-issues",
+      "artistSlug": "9huit",
+      "artist": "Nanté98",
+      "title": "Trust Issues",
+      "album": "Neuf Huit Part.2",
+      "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1778278594/Covers/artist-e2ad0b20-8dc6-4be0-a664-03037af4ac92/cover.png"
+    },
+    {
+      "slug": "ranoray",
+      "artistSlug": "balz",
+      "artist": "BALZ. ",
+      "title": "Ranoray",
+      "album": "CNTRBND : THE PREQUEL",
+      "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1780489624/Covers/artist-22a3c3e5-87e0-4156-bfc0-dd1616d95474/cover-mpy1jssi.jpg"
+    },
+    {
+      "slug": "bad",
+      "artistSlug": "9huit",
+      "artist": "Nanté98",
+      "title": "Bad",
+      "album": "Neuf Huit Part.2",
+      "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1778278594/Covers/artist-e2ad0b20-8dc6-4be0-a664-03037af4ac92/cover.png"
+    },
+    {
+      "slug": "8igl9an-bruler",
+      "artistSlug": "9huit",
+      "artist": "Nanté98",
+      "title": "8IGL9AN - Bruler",
+      "album": "Neuf Huit Part.2",
+      "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1778278594/Covers/artist-e2ad0b20-8dc6-4be0-a664-03037af4ac92/cover.png"
+    },
+    {
+      "slug": "interlude-heal-me",
+      "artistSlug": "9huit",
+      "artist": "Nanté98",
+      "title": "Interlude (Heal Me)",
+      "album": "Neuf Huit Part.2",
+      "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1778278594/Covers/artist-e2ad0b20-8dc6-4be0-a664-03037af4ac92/cover.png"
+    },
+    {
+      "slug": "populaire",
+      "artistSlug": "balz",
+      "artist": "BALZ. ",
+      "title": "Populaire",
+      "album": "CNTRBND : THE PREQUEL",
+      "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1780489624/Covers/artist-22a3c3e5-87e0-4156-bfc0-dd1616d95474/cover-mpy1jssi.jpg"
+    },
+    {
+      "slug": "crook",
+      "artistSlug": "balz",
+      "artist": "BALZ. ",
+      "title": "Crook",
+      "album": "CNTRBND : THE PREQUEL",
+      "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1780489624/Covers/artist-22a3c3e5-87e0-4156-bfc0-dd1616d95474/cover-mpy1jssi.jpg"
+    },
+    {
+      "slug": "who-s-next",
+      "artistSlug": "balz",
+      "artist": "BALZ. ",
+      "title": "Who’s next ?",
+      "album": "CNTRBND : THE PREQUEL",
+      "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1780489624/Covers/artist-22a3c3e5-87e0-4156-bfc0-dd1616d95474/cover-mpy1jssi.jpg"
+    },
+    {
+      "slug": "nike",
+      "artistSlug": "balz",
+      "artist": "BALZ. ",
+      "title": "Nike",
+      "album": "CNTRBND : THE PREQUEL",
+      "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1780489624/Covers/artist-22a3c3e5-87e0-4156-bfc0-dd1616d95474/cover-mpy1jssi.jpg"
+    },
+    {
+      "slug": "ziona",
+      "artistSlug": "balz",
+      "artist": "BALZ. ",
+      "title": "Ziona",
+      "album": "CNTRBND : THE PREQUEL",
+      "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1780489624/Covers/artist-22a3c3e5-87e0-4156-bfc0-dd1616d95474/cover-mpy1jssi.jpg"
+    },
+    {
+      "slug": "andro-fanafahana",
+      "artistSlug": "balz",
+      "artist": "BALZ. ",
+      "title": "Andro fanafahana",
+      "album": "CNTRBND : THE PREQUEL",
+      "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1780489624/Covers/artist-22a3c3e5-87e0-4156-bfc0-dd1616d95474/cover-mpy1jssi.jpg"
+    },
+    {
+      "slug": "mitady-peace-blue-morgan",
+      "artistSlug": "balz",
+      "artist": "BALZ. ",
+      "title": "Mitady peace (Blue Morgan)",
+      "album": "CNTRBND : THE PREQUEL",
+      "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1780489624/Covers/artist-22a3c3e5-87e0-4156-bfc0-dd1616d95474/cover-mpy1jssi.jpg"
+    },
+    {
+      "slug": "tsy-vitako-2-0",
+      "artistSlug": "nxrxone",
+      "artist": "Nxrxone",
+      "title": "(Tsy) Vitako 2.0",
+      "album": "(Tsy) Vitako 2.0",
+      "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1777901916/Covers/artist-1ba259ed-ba11-4dd2-a59c-3baa1ed78d66/tsy-vitako-20.jpg"
+    },
+    {
+      "slug": "zozz-nostalzik",
+      "artistSlug": "igvchy",
+      "artist": "IGVCHY",
+      "title": "Zozz Nostalzik",
+      "album": "ZVD∑",
+      "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1780647465/Covers/artist-fdf0a09d-4d11-4b85-a265-ebcbcd7ca928/zvd-mq0niwwn.jpg"
+    },
+    {
+      "slug": "alone",
+      "artistSlug": "kresnik",
+      "artist": "Kresnik",
+      "title": "Alone",
+      "album": "TRILL",
+      "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1779350679/Covers/artist-9bdab64e-99f5-44e0-bfd2-fc3a9a09dddd/trill-mpf7ga4x.png"
+    },
+    {
+      "slug": "zzz-interlude-feat-tsukii",
+      "artistSlug": "igvchy",
+      "artist": "IGVCHY",
+      "title": "Zzz (Interlude Feat. Tsukii)",
+      "album": "ZVD∑",
+      "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1780647465/Covers/artist-fdf0a09d-4d11-4b85-a265-ebcbcd7ca928/zvd-mq0niwwn.jpg"
+    },
+    {
+      "slug": "pepsi-feat-fab-s-brownz-kizl-voaygang-spvce-chen",
+      "artistSlug": "kresnik",
+      "artist": "Kresnik",
+      "title": "Pepsi (Feat. Fab's Brownz, Kizl VoayGang & Spvce Chen)",
+      "album": "TRILL",
+      "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1779350679/Covers/artist-9bdab64e-99f5-44e0-bfd2-fc3a9a09dddd/trill-mpf7ga4x.png"
+    },
+    {
+      "slug": "cntrbndisback-intro",
+      "artistSlug": "balz",
+      "artist": "BALZ. ",
+      "title": "CNTRBNDISBACK (Intro)",
+      "album": "CNTRBND II",
+      "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1780486747/Covers/artist-22a3c3e5-87e0-4156-bfc0-dd1616d95474/cover-mpxzu55p.jpg"
+    },
+    {
+      "slug": "freestyle-ghibli",
+      "artistSlug": "balz",
+      "artist": "BALZ. ",
+      "title": "Freestyle Ghibli",
+      "album": "CNTRBND II",
+      "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1780486747/Covers/artist-22a3c3e5-87e0-4156-bfc0-dd1616d95474/cover-mpxzu55p.jpg"
+    }
+  ]
+}

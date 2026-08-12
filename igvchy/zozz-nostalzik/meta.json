@@ -1,0 +1,22 @@
+{
+  "id": "zozz-nostalzik",
+  "title": "Zozz Nostalzik",
+  "artist": "IGVCHY",
+  "artists": [
+    "IGVCHY"
+  ],
+  "album": "ZVD∑",
+  "albumSlug": "zvd-6da3",
+  "releaseDate": null,
+  "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1780647465/Covers/artist-fdf0a09d-4d11-4b85-a265-ebcbcd7ca928/zvd-mq0niwwn.jpg",
+  "language": [],
+  "tags": [],
+  "source": {
+    "platform": "passio",
+    "albumId": "6da3a59e-a4b1-456f-8730-1ec4f0968ed7",
+    "trackId": "5bd04ec6-f26a-4416-b24d-acc03aa0a7d4",
+    "albumTitle": "ZVD∑",
+    "note": "Source : catalogue Pass’io"
+  },
+  "addedAt": "2026-08-12"
+}

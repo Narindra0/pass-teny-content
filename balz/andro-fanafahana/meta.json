@@ -1,0 +1,22 @@
+{
+  "id": "andro-fanafahana",
+  "title": "Andro fanafahana",
+  "artist": "BALZ. ",
+  "artists": [
+    "BALZ. "
+  ],
+  "album": "CNTRBND : THE PREQUEL",
+  "albumSlug": "cntrbnd-the-prequel-bb4f",
+  "releaseDate": null,
+  "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1780489624/Covers/artist-22a3c3e5-87e0-4156-bfc0-dd1616d95474/cover-mpy1jssi.jpg",
+  "language": [],
+  "tags": [],
+  "source": {
+    "platform": "passio",
+    "albumId": "bb4f84a6-380a-4ec1-8f0e-f5086241afdc",
+    "trackId": "dd36cd14-1ca6-407d-bc01-e4c244aaea13",
+    "albumTitle": "CNTRBND : THE PREQUEL",
+    "note": "Source : catalogue Pass’io"
+  },
+  "addedAt": "2026-08-12"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "pepsi-feat-fab-s-brownz-kizl-voaygang-spvce-chen",
+  "title": "Pepsi (Feat. Fab's Brownz, Kizl VoayGang & Spvce Chen)",
+  "artist": "Kresnik",
+  "artists": [
+    "Kresnik"
+  ],
+  "album": "TRILL",
+  "albumSlug": "trill-a585",
+  "releaseDate": null,
+  "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1779350679/Covers/artist-9bdab64e-99f5-44e0-bfd2-fc3a9a09dddd/trill-mpf7ga4x.png",
+  "language": [],
+  "tags": [],
+  "source": {
+    "platform": "passio",
+    "albumId": "a5855176-54d7-4a0b-8523-e86d0b006415",
+    "trackId": "72a9b01b-d975-4a64-a940-b937553deab0",
+    "albumTitle": "TRILL",
+    "note": "Source : catalogue Pass’io"
+  },
+  "addedAt": "2026-08-12"
+}

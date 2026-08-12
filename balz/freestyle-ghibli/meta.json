@@ -1,0 +1,22 @@
+{
+  "id": "freestyle-ghibli",
+  "title": "Freestyle Ghibli",
+  "artist": "BALZ. ",
+  "artists": [
+    "BALZ. "
+  ],
+  "album": "CNTRBND II",
+  "albumSlug": "cntrbnd-ii-7d0c",
+  "releaseDate": null,
+  "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1780486747/Covers/artist-22a3c3e5-87e0-4156-bfc0-dd1616d95474/cover-mpxzu55p.jpg",
+  "language": [],
+  "tags": [],
+  "source": {
+    "platform": "passio",
+    "albumId": "7d0c4834-e859-4ee0-856a-4a8c6f44b04c",
+    "trackId": "955cfa6b-5be6-4c9d-aa01-6167057ab725",
+    "albumTitle": "CNTRBND II",
+    "note": "Source : catalogue Pass’io"
+  },
+  "addedAt": "2026-08-12"
+}

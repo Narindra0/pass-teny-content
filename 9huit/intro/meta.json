@@ -1,0 +1,22 @@
+{
+  "id": "intro",
+  "title": "Intro",
+  "artist": "Nanté98",
+  "artists": [
+    "Nanté98"
+  ],
+  "album": "Neuf Huit Part.2",
+  "albumSlug": "neuf-huit-part-2-98dd",
+  "releaseDate": null,
+  "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1778278594/Covers/artist-e2ad0b20-8dc6-4be0-a664-03037af4ac92/cover.png",
+  "language": [],
+  "tags": [],
+  "source": {
+    "platform": "passio",
+    "albumId": "98ddb3b0-f0f4-4864-bf12-640619ba6c8e",
+    "trackId": "96aa652f-6c62-4d84-9a81-f40355edc743",
+    "albumTitle": "Neuf Huit Part.2",
+    "note": "Source : catalogue Pass’io"
+  },
+  "addedAt": "2026-08-12"
+}

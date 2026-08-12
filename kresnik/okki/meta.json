@@ -1,0 +1,22 @@
+{
+  "id": "okki",
+  "title": "Okki",
+  "artist": "Kresnik",
+  "artists": [
+    "Kresnik"
+  ],
+  "album": "TRILL",
+  "albumSlug": "trill-a585",
+  "releaseDate": null,
+  "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1779350679/Covers/artist-9bdab64e-99f5-44e0-bfd2-fc3a9a09dddd/trill-mpf7ga4x.png",
+  "language": [],
+  "tags": [],
+  "source": {
+    "platform": "passio",
+    "albumId": "a5855176-54d7-4a0b-8523-e86d0b006415",
+    "trackId": "a01655ff-6423-4e49-b3d8-ee877bb7a92a",
+    "albumTitle": "TRILL",
+    "note": "Source : catalogue Pass’io"
+  },
+  "addedAt": "2026-08-12"
+}

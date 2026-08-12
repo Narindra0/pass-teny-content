@@ -1,0 +1,22 @@
+{
+  "id": "metanoia",
+  "title": "Metanoïa",
+  "artist": "Mc Hope",
+  "artists": [
+    "Mc Hope"
+  ],
+  "album": "METANOÏA",
+  "albumSlug": "metano-a-3558",
+  "releaseDate": null,
+  "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1778487893/Covers/artist-b2264acd-51d4-481b-8240-832a21b1a170/cover-mp0xrsat.jpg",
+  "language": [],
+  "tags": [],
+  "source": {
+    "platform": "passio",
+    "albumId": "3558e240-bdc0-42fe-8177-e8a8730f6869",
+    "trackId": "633cb1c0-304a-46a7-935b-0a9af105523b",
+    "albumTitle": "METANOÏA",
+    "note": "Source : catalogue Pass’io"
+  },
+  "addedAt": "2026-08-12"
+}

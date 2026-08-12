@@ -1,0 +1,22 @@
+{
+  "id": "nike",
+  "title": "Nike",
+  "artist": "BALZ. ",
+  "artists": [
+    "BALZ. "
+  ],
+  "album": "CNTRBND : THE PREQUEL",
+  "albumSlug": "cntrbnd-the-prequel-bb4f",
+  "releaseDate": null,
+  "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1780489624/Covers/artist-22a3c3e5-87e0-4156-bfc0-dd1616d95474/cover-mpy1jssi.jpg",
+  "language": [],
+  "tags": [],
+  "source": {
+    "platform": "passio",
+    "albumId": "bb4f84a6-380a-4ec1-8f0e-f5086241afdc",
+    "trackId": "05b77506-a586-481a-b927-0e8fc0f091bc",
+    "albumTitle": "CNTRBND : THE PREQUEL",
+    "note": "Source : catalogue Pass’io"
+  },
+  "addedAt": "2026-08-12"
+}
