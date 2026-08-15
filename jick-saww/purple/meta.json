@@ -1,0 +1,21 @@
+{
+  "id": "purple",
+  "title": "PURPLE",
+  "artist": "Jick Saww",
+  "artists": [
+    "Jick Saww"
+  ],
+  "album": "NEW UNDERGROUND",
+  "albumSlug": "jick-saww-new-underground",
+  "coverUrl": "https://ik.imagekit.io/a6ywpqgqor/Covers/spotify-artwork-new-underground-3000x3000_Ktl6oMpUQ.jpg",
+  "language": [],
+  "tags": [],
+  "source": {
+    "platform": "passio",
+    "albumId": "9e8df3c0-eff1-4bdb-85cf-62dcbaebf7c6",
+    "trackId": "816f73ba-ccec-41d5-8def-91b3cc71115c",
+    "albumTitle": "NEW UNDERGROUND",
+    "note": "Soumission communautaire"
+  },
+  "addedAt": "2026-08-15"
+}
