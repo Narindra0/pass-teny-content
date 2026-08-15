@@ -31,6 +31,11 @@
       "slug": "mc-hope",
       "name": "Mc Hope",
       "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1778324075/ProfilePic/artist-b2264acd-51d4-481b-8240-832a21b1a170/profile-picture.jpg?t=1778324075830"
+    },
+    {
+      "slug": "jick-saww",
+      "name": "Jick Saww",
+      "coverUrl": "https://ik.imagekit.io/a6ywpqgqor/Covers/spotify-artwork-new-underground-3000x3000_Ktl6oMpUQ.jpg"
     }
   ],
   "songs": [
@@ -257,6 +262,14 @@
       "title": "Freestyle Ghibli",
       "album": "CNTRBND II",
       "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/v1780486747/Covers/artist-22a3c3e5-87e0-4156-bfc0-dd1616d95474/cover-mpxzu55p.jpg"
+    },
+    {
+      "slug": "purple",
+      "artistSlug": "jick-saww",
+      "artist": "Jick Saww",
+      "title": "PURPLE",
+      "album": "NEW UNDERGROUND",
+      "coverUrl": "https://ik.imagekit.io/a6ywpqgqor/Covers/spotify-artwork-new-underground-3000x3000_Ktl6oMpUQ.jpg"
     }
   ]
 }
