@@ -1,3 +1,14 @@
 {
-  "annotations": []
+  "annotations": [
+    {
+      "id": "f60acd9e-1056-43cc-84ef-5e35ea0c8332",
+      "start": 491,
+      "end": 497,
+      "quote": "doppel",
+      "body": "Doppel Munich (bière)",
+      "tags": [],
+      "author": "nxrxone",
+      "authorId": "ba435fac-ed9f-43f6-b8e2-3725cf97ff88"
+    }
+  ]
 }
