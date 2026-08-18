@@ -1,0 +1,22 @@
+{
+  "id": "mc-jean",
+  "title": "Mc Jean",
+  "artist": "Ho-Toavina",
+  "artists": [
+    "Ho-Toavina"
+  ],
+  "album": "RANDOM ACCESS POETRY vol. 2",
+  "albumSlug": "random-access-poetry-vol-2",
+  "releaseDate": null,
+  "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/f_auto,q_auto/v1783326219/Covers/artist-8ec03fd9-5a74-4834-84ae-bc903e872183/cover-mr8ydvc1.jpg",
+  "language": [],
+  "tags": [],
+  "source": {
+    "platform": "passio",
+    "albumId": "cf262ddf-e646-4dac-a4c1-2db5f8fd3d9b",
+    "trackId": "8ef3a550-2018-4be2-89a4-f789610907d9",
+    "albumTitle": "RANDOM ACCESS POETRY vol. 2",
+    "note": "Synchro lyrics Pass’io"
+  },
+  "addedAt": "2026-08-18"
+}

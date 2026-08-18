@@ -1,0 +1,22 @@
+{
+  "id": "million-feat-jdan",
+  "title": "Million (Feat. JDAN)",
+  "artist": "Ho-Toavina",
+  "artists": [
+    "Ho-Toavina"
+  ],
+  "album": "RANDOM ACCESS POETRY Vol.3",
+  "albumSlug": "random-access-poetry-vol-3",
+  "releaseDate": null,
+  "coverUrl": "https://res.cloudinary.com/dv00yefcq/image/upload/f_auto,q_auto/v1783327351/Covers/artist-8ec03fd9-5a74-4834-84ae-bc903e872183/cover-mr8z24c1.jpg",
+  "language": [],
+  "tags": [],
+  "source": {
+    "platform": "passio",
+    "albumId": "6c8bc3fa-4cba-46ab-93f1-af40d3adca8e",
+    "trackId": "56ce7b6c-6a9e-409f-a157-26307bf97e14",
+    "albumTitle": "RANDOM ACCESS POETRY Vol.3",
+    "note": "Synchro lyrics Pass’io"
+  },
+  "addedAt": "2026-08-18"
+}
